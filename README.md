@@ -7,11 +7,11 @@ In the project directory, you can run:
 
 ### `npm start`
 
-## Youtube videos on React:
+## Recommended Youtube videos on React:
 
-[React beginners course - the best on the planet](https://youtu.be/irja5lMWTnc).
-[Chakra-ui - component libary for React](https://youtu.be/QVnkGqEsbK0)
-[Context API - with useContext hook](https://youtu.be/ZBZ6BqoUDsU)
+- [React beginners course - the best on the planet](https://youtu.be/irja5lMWTnc).
+- [Chakra-ui - component libary for React](https://youtu.be/QVnkGqEsbK0)
+- [Context API - with useContext hook](https://youtu.be/ZBZ6BqoUDsU)
 
 ## Learn More
 
